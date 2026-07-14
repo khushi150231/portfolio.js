@@ -26,7 +26,7 @@ This portfolio showcases my skills, projects, and achievements as a Computer Sci
 
 ## 🔗 Live Demo
 
-https://portfolio-js-coral.vercel.app/
+https://khushi-portfolio-two-drab.vercel.app/
 
 ## 👩‍💻 Author
 
