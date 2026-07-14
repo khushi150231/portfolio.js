@@ -869,9 +869,7 @@ body::after {
     }
 }
 
-/* ===========================
-   Mobile
-=========================== */
+
 
 @media (max-width:768px){
 
@@ -910,7 +908,6 @@ header{
     font-size:16px;
 }
 
-/* Hero */
 
 .hero{
 
@@ -966,7 +963,6 @@ header{
     justify-content:center;
 }
 
-/* About */
 
 .about{
 
@@ -983,7 +979,7 @@ header{
     grid-template-columns:1fr;
 }
 
-/* Education */
+
 
 .education{
 
@@ -1005,7 +1001,6 @@ header{
     font-size:22px;
 }
 
-/* Skills */
 
 .skills{
 
@@ -1017,7 +1012,7 @@ header{
     grid-template-columns:1fr;
 }
 
-/* Projects */
+
 
 .projects{
 
@@ -1029,7 +1024,7 @@ header{
     grid-template-columns:1fr;
 }
 
-/* Coding Profiles */
+
 
 .profiles{
 
@@ -1041,7 +1036,7 @@ header{
     grid-template-columns:1fr;
 }
 
-/* Contact */
+
 
 .contact{
 
@@ -1064,7 +1059,7 @@ header{
     text-align:center;
 }
 
-/* Footer */
+
 
 footer{
 
@@ -1073,9 +1068,7 @@ footer{
 
 }
 
-/* ===========================
-   Small Mobile
-=========================== */
+
 
 @media (max-width:480px){
 
